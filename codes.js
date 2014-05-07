@@ -19,7 +19,7 @@ for (var i = 0; i < teams.length; ++i) {
         console.warn ("Missing country code for: " + teams[i]);
         continue;
     }
-    teamCodes[teams[i]] = codes[teams[i]].toLowerCase();
+    teamCodes[teams[i].toLowerCase()] = codes[teams[i]].toLowerCase();
 }
 
 console.log (JSON.stringify (teamCodes, null, 4));
