@@ -16,6 +16,11 @@
 <td></td>
 </tr>
 <tr>
+<td id="AD"><tt>CI</tt></td>
+<td><a href="/wiki/Andorra" title="Andorra">Ivory Coast</a></td>
+<td></td>
+</tr>
+<tr>
 <td id="AE"><tt>AE</tt></td>
 <td><a href="/wiki/United_Arab_Emirates" title="United Arab Emirates">United Arab Emirates</a></td>
 <td>1974</td>
@@ -622,7 +627,7 @@ Code used for <a href="/wiki/West_Germany" title="West Germany">West Germany</a>
 </tr>
 <tr>
 <td id="GB"><tt>GB</tt></td>
-<td><a href="/wiki/United_Kingdom" title="United Kingdom">United Kingdom</a></td>
+<td><a href="/wiki/United_Kingdom" title="United Kingdom">England</a></td>
 <td>1974</td>
 <td><a href="/wiki/.gb" title=".gb">.gb</a><br>
 (<a href="/wiki/.uk" title=".uk">.uk</a>)</td>
@@ -872,7 +877,7 @@ Code used for <a href="/wiki/West_Germany" title="West Germany">West Germany</a>
 </tr>
 <tr>
 <td id="IR"><tt>IR</tt></td>
-<td><a href="/wiki/Iran" title="Iran">Iran, Islamic Republic of</a></td>
+<td><a href="/wiki/Iran" title="Iran">Iran</a></td>
 <td>1974</td>
 <td><a href="/wiki/.ir" title=".ir">.ir</a></td>
 <td><span class="nowrap"><a href="/wiki/ISO_3166-2:IR" title="ISO 3166-2:IR">ISO 3166-2:IR</a></span></td>
@@ -985,7 +990,7 @@ Previous ISO country name: <i><a href="/wiki/Democratic_Kampuchea" title="Democr
 </tr>
 <tr>
 <td id="KR"><tt>KR</tt></td>
-<td><a href="/wiki/South_Korea" title="South Korea">Korea, Republic of</a></td>
+<td><a href="/wiki/South_Korea" title="South Korea">South Korea</a></td>
 <td>1974</td>
 <td><a href="/wiki/.kr" title=".kr">.kr</a></td>
 <td><span class="nowrap"><a href="/wiki/ISO_3166-2:KR" title="ISO 3166-2:KR">ISO 3166-2:KR</a></span></td>
@@ -1539,7 +1544,7 @@ Consists of the <a href="/wiki/West_Bank" title="West Bank">West Bank</a> and th
 </tr>
 <tr>
 <td id="RU"><tt>RU</tt></td>
-<td><a href="/wiki/Russia" title="Russia">Russian Federation</a></td>
+<td><a href="/wiki/Russia" title="Russia">Russia</a></td>
 <td>1992</td>
 <td><a href="/wiki/.ru" title=".ru">.ru</a></td>
 <td><span class="nowrap"><a href="/wiki/ISO_3166-2:RU" title="ISO 3166-2:RU">ISO 3166-2:RU</a></span></td>
