@@ -1,0 +1,25 @@
+{
+  "name": "countries-i18m",
+  "version": "0.0.0",
+  "description": "The country names in multiple languages.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:jillix/countries-i18n.git"
+  },
+  "keywords": [
+    "country",
+    "names",
+    "nodejs",
+    "i18n"
+  ],
+  "author": "jillix <contact@jillix.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jillix/countries-i18n/issues"
+  },
+  "homepage": "https://github.com/jillix/countries-i18n"
+}
